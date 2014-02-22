@@ -1,0 +1,11 @@
+{
+    "name"        : "nodechecker-janitor"
+  , "version"     : "0.0.1"
+  , "homepage"    : "http://nodechecker.com"
+  , "description" : "Nodechecker Docker janitor"
+  , "dependencies": {
+      "dockerode"              : "*"
+      , "colors"              : "*"
+    }
+  , "main"    : "./main.js"
+}
